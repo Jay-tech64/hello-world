@@ -7,3 +7,5 @@ Pasta la vida!
 this a a added line!
 
 Trying to make a conflict... Resolve!
+
+Added another line
